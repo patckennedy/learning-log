@@ -37,7 +37,7 @@ The goal is to show **consistent progress**, track skills, and create a portfoli
 
 ## ✅ Current Status  
 
-- **Starting Point**: IT Support → Full-Stack Developer (PERN) → AI Engineer in Training  
+- **Starting Point**: IT Support → Full-Stack Software Developer (PERN) → AI Engineer in Training  
 - **Currently Learning**: Python Foundations & Intro to LLMs  
 
 ---
