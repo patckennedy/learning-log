@@ -2,17 +2,17 @@
 .DS_Store
 Thumbs.db
 
+# PyCharm
+.idea/
+
 # Python
 __pycache__/
 *.pyc
 .venv/
 venv/
 
-# Notebooks (if you add later)
+# Notebooks (future)
 .ipynb_checkpoints/
-
-# Node (if you experiment)
-node_modules/
 
 # Secrets
 .env
