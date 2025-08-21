@@ -2,7 +2,7 @@
 
 Welcome to my **Learning Log**!  
 
-This is a public record of my **6-month journey into AI Engineering**, where I document what I’m learning, practicing, and building along the way.  
+This is a public record of my **journey into AI Engineering**, where I document what I’m learning, practicing, and building along the way.  
 The goal is to show **consistent progress**, track skills, and create a portfolio of mini-projects and reflections.  
 
 ---
