@@ -35,11 +35,15 @@ The goal is to show **consistent progress**, track skills, and create a portfoli
 
 ---
 
+## 📂 Mini-Projects by Month
+- **[Month 1 – Python & LLM Basics](month-01_python-llm-basics/README.md)**  
+  Covers Python foundations and Machine learning fundamentals
+
+--- 
 ## ✅ Current Status  
 
 - **Starting Point**: IT Support → Full-Stack Software Developer (PERN) → AI Engineer in Training  
 - **Currently Learning**: Python Foundations & Intro to LLMs  
 
 ---
-
 ⭐ Stay tuned — this repo will grow every week as I add new logs, notes, and projects.  
