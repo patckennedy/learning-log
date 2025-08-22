@@ -11,7 +11,7 @@ Here are the materials I used to learn and practice during Week 1 (Aug 18–22, 
 
 ## Practice
 - PyCharm setup & environment configuration
-- Wrote small Python scripts for strings and numbers
+- Wrote small Python app for strings and numbers
 
 ---
 
