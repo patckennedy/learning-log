@@ -20,9 +20,14 @@
 -   Confusion around .format() placeholders compared to f-strings.
 -   Needed a refresher on Python naming conventions (snake_case for variables).
 
-
 ## Next week goals
 
 -   Cover Python collections: lists, dictionaries, tuples, booleans, comparison operators, and statements.  
 -   Start the Kaggle *Intro to Machine Learning* course.  
 -   Practice solving at least 5 beginner coding challenges (strings + lists). 
+
+
+## Reflection
+Week 1 was mostly about setting up tools (PyCharm, GitHub workflow) and refreshing Python basics.  
+I realized that even a small project like the Name & Age app can show progress.  
+Next week, I want to be more consistent with practice and commit earlier in the week.
