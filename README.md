@@ -3,16 +3,19 @@
 Welcome to my **Learning Log**!  
 
 This is a public record of my **journey into AI Engineering**, where I document what I’m learning, practicing, and building along the way.  
-The goal is to show **consistent progress**, track skills, and create a portfolio of mini-projects and reflections.  
+The goal is to show **consistent progress**, track skills, and create a portfolio of projects and reflections.  
+
+⚡ **Career Note**: While I’m on this AI roadmap, I’m **still actively pursuing Full-Stack / Web Developer roles** (PERN stack).  
+My software engineering career continues — this roadmap expands my skills into AI to position me for hybrid **AI + Web Dev** opportunities.  
 
 ---
 
 ## 🚀 What You’ll Find Here  
 
 - 📝 **Weekly Logs** – Notes and reflections on what I studied each week.  
-- 💡 **Mini-Projects** – Small coding exercises and experiments (Python, AI APIs, RAG pipelines, etc.).  
+- 💡 **Mini-Projects** – Small coding exercises and experiments (Python, ML, LLMs, agents, etc.).  
 - 📖 **Resources** – Links to helpful courses, tutorials, and references I’ve used.  
-- 🎯 **Milestones** – Key achievements and checkpoints as I move closer to becoming an **AI Engineer**.  
+- 🎯 **Milestones** – Key achievements and checkpoints.  
 
 ---
 
@@ -24,26 +27,112 @@ The goal is to show **consistent progress**, track skills, and create a portfoli
 
 ---
 
-## 📆 Journey Overview  
+## 📆 Journey Overview (12-Month Roadmap)  
 
-- **Month 1**: Python Fundamentals + First AI App  
-- **Month 2**: APIs, Data Handling, RAG Basics  
-- **Month 3**: Building AI Apps & Deployments  
-- **Month 4**: Agents & Orchestration Frameworks  
-- **Month 5**: Advanced AI Engineering (Scaling, Vector DBs)  
-- **Month 6**: Portfolio Projects & Job Preparation  
+### **Month 1 – Python & LLM Basics**  
+- Python fundamentals → variables, strings, loops, functions, collections.  
+- File handling & simple CLI apps.  
+- Intro to Large Language Models (LLMs).  
+- First API call to an LLM (OpenAI, Anthropic, Hugging Face).  
+✅ **Exit:** One CLI app + one LLM “Hello World” script on GitHub.  
 
 ---
 
-## 📂 Mini-Projects by Month
-- **[Month 1 – Python & LLM Basics](month-01_python-llm-basics/README.md)**  
-  Covers Python foundations and Machine learning fundamentals
+### **Months 2–3 – Data & Machine Learning Foundations**  
+- NumPy (arrays, broadcasting).  
+- Pandas (cleaning, transformations).  
+- Matplotlib & Seaborn (visualizations).  
+- Supervised learning (regression, classification).  
+- Unsupervised learning (clustering, PCA).  
+- scikit-learn (pipelines, metrics, model evaluation).  
+✅ **Exit:** 1–2 ML mini-projects (e.g., predictor/classifier).  
 
---- 
+---
+
+### **Month 4 – AI Apps & Deployment**  
+- FastAPI basics (endpoints, request/response).  
+- Flask (lightweight APIs).  
+- Docker for containerization.  
+- Cloud deployment (Hugging Face Spaces, Railway, Render, AWS/GCP).  
+- Build small AI-powered apps (chatbot, summarizer).  
+✅ **Exit:** 1 deployed AI app (with README + live demo link).  
+
+---
+
+### **Months 5–7 – Agents (Core Foundations + OpenAI Focus)**  
+- LangChain fundamentals: chains, memory, tools, agents.  
+- LlamaIndex basics: document loaders, indexing, queries.  
+- Simple RAG pipelines (retrieve → generate).  
+- OpenAI ecosystem (Assistants API, function calling, structured outputs).  
+- Connecting to APIs & tools (Google Search, Python functions).  
+- Single-agent apps (doc assistant, research bot).  
+✅ **Exit:** A working AI assistant that integrates OpenAI + LangChain/LlamaIndex.  
+
+---
+
+### **Month 8 – Agents (Advanced Orchestration)**  
+- Multi-agent systems (AutoGen, CrewAI, LangGraph).  
+- Advanced RAG with vector DBs (Pinecone, Weaviate, FAISS).  
+- Orchestration strategies (task delegation, error handling, human-in-the-loop).  
+- Building autonomous workflows.  
+✅ **Exit:** Multi-agent system project (e.g., research team simulation).  
+
+---
+
+### **Month 9 – Scaling AI Engineering**  
+- Experiment tracking (Weights & Biases, MLflow).  
+- Improving model performance (hyperparameter tuning, embeddings).  
+- Fine-tuning LLMs (LoRA, PEFT).  
+- MLOps basics: CI/CD pipelines for ML.  
+- Data pipelines (batch vs streaming).  
+✅ **Exit:** 1 production-style ML pipeline with tracking + docs.  
+
+---
+
+### **Month 10 – Advanced Web + AI Integration**  
+*(Bridging my Web Dev background with AI Engineering)*  
+- React + AI (frontends consuming AI APIs).  
+- Building AI features into full-stack apps (chat widgets, recommenders).  
+- Secure API handling & rate limiting.  
+- Deploying AI-backed web apps (Heroku, Vercel, AWS).  
+✅ **Exit:** Full-stack PERN + AI project (portfolio-ready).  
+
+---
+
+### **Month 11 – Portfolio Development**  
+- Select top 3–4 projects → polish & document.  
+- Write READMEs, blog posts, or short demo videos.  
+- Ensure repos are clean, commits consistent, code professional.  
+- Start capstone design.  
+✅ **Exit:** At least 2 polished projects recruiter-ready.  
+
+---
+
+### **Month 12 – Capstone & Career Prep**  
+- Build final **capstone project** (end-to-end agentic AI system).  
+- Resume update: emphasize **dual career track** (Full-Stack + AI Engineering).  
+- GitHub cleanup (consistent style, README templates).  
+- Mock interview prep (tech + behavioral).  
+- Final portfolio showcase (LinkedIn, GitHub, portfolio site).  
+✅ **Exit:** 1 capstone + 3–4 polished projects → recruiter-ready.  
+
+---
+
+## 📂 Mini-Projects by Month  
+
+- **[Month 1 – Python & LLM Basics](month-01_python-llm-basics/README.md)**  
+
+
+*(Each folder will contain mini-projects, notes, and a sub-README.)*  
+
+---
+
 ## ✅ Current Status  
 
-- **Starting Point**: IT Support → Full-Stack Software Developer (PERN) → AI Engineer in Training  
-- **Currently Learning**: Python Foundations & Intro to LLMs  
+- **Starting Point**: IT Support → Full-Stack Developer (PERN) → AI Engineer in Training  
+- **Currently Learning**: Month 1 – Python Foundations & Intro to LLMs  
+- **Career Path Note**: Actively pursuing **Web Dev roles** while building AI Engineering skills in parallel.  
 
 ---
-⭐ Stay tuned — this repo will grow every week as I add new logs, notes, and projects.  
+
+⭐ Stay tuned — this repo will grow weekly with logs, notes, and projects.  
