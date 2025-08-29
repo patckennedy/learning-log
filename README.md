@@ -29,7 +29,7 @@ My software engineering career continues — this roadmap expands my skills into
 
 ## 📆 Journey Overview (12-Month Roadmap)  
 
-### **Month 1 – Python & LLM Basics**  
+### **Section 1 – Python & LLM Basics**  
 - Python fundamentals → variables, strings, loops, functions, collections.  
 - File handling & simple CLI apps.  
 - Intro to Large Language Models (LLMs).  
@@ -38,7 +38,7 @@ My software engineering career continues — this roadmap expands my skills into
 
 ---
 
-### **Months 2–3 – Data & Machine Learning Foundations**  
+### **Section 2 – Data & Machine Learning Foundations**  
 - NumPy (arrays, broadcasting).  
 - Pandas (cleaning, transformations).  
 - Matplotlib & Seaborn (visualizations).  
@@ -49,7 +49,7 @@ My software engineering career continues — this roadmap expands my skills into
 
 ---
 
-### **Month 4 – AI Apps & Deployment**  
+### **Section 3 – AI Apps & Deployment**  
 - FastAPI basics (endpoints, request/response).  
 - Flask (lightweight APIs).  
 - Docker for containerization.  
@@ -59,7 +59,7 @@ My software engineering career continues — this roadmap expands my skills into
 
 ---
 
-### **Months 5–7 – Agents (Core Foundations + OpenAI Focus)**  
+### **Section 4 – Agents (Core Foundations + OpenAI Focus)**  
 - LangChain fundamentals: chains, memory, tools, agents.  
 - LlamaIndex basics: document loaders, indexing, queries.  
 - Simple RAG pipelines (retrieve → generate).  
@@ -70,7 +70,7 @@ My software engineering career continues — this roadmap expands my skills into
 
 ---
 
-### **Month 8 – Agents (Advanced Orchestration)**  
+### **Section 5 – Agents (Advanced Orchestration)**  
 - Multi-agent systems (AutoGen, CrewAI, LangGraph).  
 - Advanced RAG with vector DBs (Pinecone, Weaviate, FAISS).  
 - Orchestration strategies (task delegation, error handling, human-in-the-loop).  
@@ -79,7 +79,7 @@ My software engineering career continues — this roadmap expands my skills into
 
 ---
 
-### **Month 9 – Scaling AI Engineering**  
+### **Section 6 – Scaling AI Engineering**  
 - Experiment tracking (Weights & Biases, MLflow).  
 - Improving model performance (hyperparameter tuning, embeddings).  
 - Fine-tuning LLMs (LoRA, PEFT).  
@@ -89,7 +89,7 @@ My software engineering career continues — this roadmap expands my skills into
 
 ---
 
-### **Month 10 – Advanced Web + AI Integration**  
+### **Section 7 – Advanced Web + AI Integration**  
 *(Bridging my Web Dev background with AI Engineering)*  
 - React + AI (frontends consuming AI APIs).  
 - Building AI features into full-stack apps (chat widgets, recommenders).  
@@ -99,7 +99,7 @@ My software engineering career continues — this roadmap expands my skills into
 
 ---
 
-### **Month 11 – Portfolio Development**  
+### **Section 8 – Portfolio Development**  
 - Select top 3–4 projects → polish & document.  
 - Write READMEs, blog posts, or short demo videos.  
 - Ensure repos are clean, commits consistent, code professional.  
@@ -108,7 +108,7 @@ My software engineering career continues — this roadmap expands my skills into
 
 ---
 
-### **Month 12 – Capstone & Career Prep**  
+### **Section 9 – Capstone & Career Prep**  
 - Build final **capstone project** (end-to-end agentic AI system).  
 - Resume update: emphasize **dual career track** (Full-Stack + AI Engineering).  
 - GitHub cleanup (consistent style, README templates).  
