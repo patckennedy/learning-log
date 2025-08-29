@@ -24,7 +24,6 @@ By the end of Month 1, I will have:
 Both apps will be **pushed to GitHub** with a proper `README.md`.  
 
 ---
----
 
 ## ✅ Weekly Progress  
 
