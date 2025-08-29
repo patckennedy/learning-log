@@ -5,9 +5,7 @@ This file collects all helpful references, tutorials, and cheatsheets for **coll
 ---
 
 ## 📖 Official Docs
-- [Python Lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)  
-- [Python Tuples & Sets](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)  
-- [Python Dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)  
+- [Python Lists, Tuples, Sets, Dictionaries](https://docs.python.org/3/tutorial/datastructures.html)  
 - [Python File Handling](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)  
 
 ---
@@ -25,12 +23,12 @@ This file collects all helpful references, tutorials, and cheatsheets for **coll
 
 ---
 
-## 💡 Helpful Tips
-- Use `with open(filename, mode) as f:` to handle files safely (auto-closes file).  
-- Remember:  
-  - Lists = ordered, changeable  
-  - Tuples = ordered, **immutable**  
-  - Sets = unordered, unique items only  
-  - Dicts = key–value pairs  
+## 💡 Key Takeaways
+- **Lists** → ordered, changeable, allow duplicates.  
+- **Tuples** → ordered, **immutable**.  
+- **Sets** → unordered, unique items only.  
+- **Dictionaries** → key–value pairs, fast lookups.  
+- Always use `with open(filename, mode) as f:` for safe file handling.  
+- Use `try/except` when working with file paths to prevent crashes.  
 
 ---
