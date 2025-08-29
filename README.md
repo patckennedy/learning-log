@@ -135,4 +135,8 @@ My software engineering career continues — this roadmap expands my skills into
 
 ---
 
+📘 **Notes Hub**: [Python Notes](./notes/python/python-notes.md) 
+
+---
+
 ⭐ Stay tuned — this repo will grow weekly with logs, notes, and projects.  
