@@ -37,7 +37,7 @@ Both apps will be **pushed to GitHub** with a proper `README.md`.
 ### Week 2 – Python Foundations  
 - 📝 [Notes](week-02/notes.md)  
 - 📂 Mini-Projects:  
-  - [Name & Age input](week-01/mini-projects/01_name_age/README.md)  
+  - [Todo List](week-02/mini-projects/02_todo_cli/README.md)  
 
 ---
 
