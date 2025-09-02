@@ -133,6 +133,19 @@ My software engineering career continues — this roadmap expands my skills into
 - **Currently Learning**: Month 1 – Python Foundations & Intro to LLMs  
 - **Career Path Note**: Actively pursuing **Web Dev roles** while building AI Engineering skills in parallel.  
 
+📖 **Study Tracks**:  
+I am currently following two Udemy courses as part of my foundations:  
+
+1. **Complete Python Bootcamp From Zero to Hero in Python** – strengthening my Python fundamentals with exercises and mini-projects.  
+2. **LLM Engineering: Master AI, Large Language Models & Agents** – learning practical LLM engineering concepts (transformers, context windows, APIs, agents).  
+
+For both tracks, I:  
+- Take **my own notes and reflections** in the Weekly Logs.  
+- Rebuild or extend projects in a fresh environment to confirm understanding.  
+- Create **additional mini-projects** inspired by what I’ve learned.  
+
+This repo is my personal record of growth — not just following courses, but **turning lessons into my own work and portfolio pieces**.  
+
 ---
 
 📘 **Notes Hub**: [Python Notes](./notes/python/python-notes.md) 
