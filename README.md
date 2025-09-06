@@ -95,7 +95,6 @@ My software engineering career continues — this roadmap expands my skills into
 
 ## 📂 Mini-Projects by Month  
 
-- **[Month 1 – Python Fundamentals](month-01_python/README.md)**  
 - **[Month 1 – Python Fundamentals](month-01_python-llm-basics/README.md)** 
 
 *(Each folder will contain mini-projects, notes, and a sub-README.)*  
