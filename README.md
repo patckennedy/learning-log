@@ -2,11 +2,11 @@
 
 Welcome to my **Learning Log**!  
 
-This is a public record of my **career enhancement journey learning Python & AI**, where I document what I’m learning, practicing, and building along the way.  
-The goal is to show **consistent progress**, strengthen both my **software engineering** and **AI engineering** skills, and create a portfolio of projects and reflections.  
+This is a public record of my career enhancement journey learning Python & AI, where I document what I’m learning, practicing, and building along the way.  
+The goal is to show consistent progress, strengthen both my software engineering and AI engineering skills, and create a portfolio of projects and reflections.  
 
-⚡ **Career Note**: While I’m on this AI roadmap, I’m **still actively pursuing Full-Stack / Web Developer roles** (PERN stack).  
-My software engineering career continues — this roadmap expands my skills into AI to position me for hybrid **AI + Web Dev** opportunities.  
+⚡ **Career Note**: While I’m on this AI roadmap, I’m still actively pursuing Full-Stack / Web Developer roles (PERN stack).  
+My software engineering career continues — this roadmap expands my skills into AI to position me for hybrid AI + Web Dev opportunities.  
 
 ---
 
@@ -110,14 +110,14 @@ My software engineering career continues — this roadmap expands my skills into
 📖 **Study Tracks**:  
 I am currently following three Udemy courses as part of my foundations:  
 
-1. **Complete Python Bootcamp From Zero to Hero in Python** – strengthening my Python fundamentals with exercises and mini-projects.
-2. **Chatbot — The Development Guide 2025** – learn Chatbots and build projects. 
-3. **LLM Engineering: Master AI, Large Language Models & Agents** – learning practical LLM engineering concepts (transformers, context windows, APIs, agents).  
+1. Complete Python Bootcamp From Zero to Hero in Python – strengthening my Python fundamentals with exercises and mini-projects.
+2. Chatbot — The Development Guide 2025 – learn Chatbots and build projects. 
+3. LLM Engineering: Master AI, Large Language Models & Agents – learning practical LLM engineering concepts (transformers, context windows, APIs, agents).  
 
 For both tracks, I:  
-- Take **my own notes and reflections** in the Weekly Logs.  
+- Take my own notes and reflections in the Weekly Logs.  
 - Rebuild or extend projects in a fresh environment to confirm understanding.  
-- Create **additional mini-projects** inspired by what I’ve learned.  
+- Create additional mini-projects inspired by what I’ve learned.  
 
 This repo is my personal record of growth — not just following courses, but **turning lessons into my own work and portfolio pieces**.  
 
