@@ -2,8 +2,8 @@
 
 Welcome to my **Learning Log**!  
 
-This is a public record of my **journey into AI Engineering**, where I document what I’m learning, practicing, and building along the way.  
-The goal is to show **consistent progress**, track skills, and create a portfolio of projects and reflections.  
+This is a public record of my **career enhancement journey learning Python & AI**, where I document what I’m learning, practicing, and building along the way.  
+The goal is to show **consistent progress**, strengthen both my **software engineering** and **AI engineering** skills, and create a portfolio of projects and reflections.  
 
 ⚡ **Career Note**: While I’m on this AI roadmap, I’m **still actively pursuing Full-Stack / Web Developer roles** (PERN stack).  
 My software engineering career continues — this roadmap expands my skills into AI to position me for hybrid **AI + Web Dev** opportunities.  
@@ -29,99 +29,74 @@ My software engineering career continues — this roadmap expands my skills into
 
 ## 📆 Journey Overview (12-Month Roadmap)  
 
-### **Section 1 – Python & LLM Basics**  
-- Python fundamentals → variables, strings, loops, functions, collections.  
+### **Section 1: – Core Python Fundamentals**  
+- Variables, data types, lists, dictionaries, tuples
+- Operators: conditional operators, arithmetic operators, type conversions
+- Conditional statements: if statements, elif statements, like statements
+- Loops: for loops, while loops
+- Advance features: Slices and exceptions
+- Mutability
+- Functions
+- Object-Oriented Programming (Classes, Objects, Methods)
 - File handling & simple CLI apps.  
-- Intro to Large Language Models (LLMs).  
-- First API call to an LLM (OpenAI, Anthropic, Hugging Face).  
-✅ **Exit:** One CLI app + one LLM “Hello World” script on GitHub.  
+✅ **Exit:** One CLI app 
+
+---
+### **Section 2: – Python - Small Projects + OOP in Practice**  
+- Learn how to split code into multiple files → Packages & Modules
+- Focus on writing resuable classes and functions
+- Learn how to handle errors with try/except and clauses
+- Learn how to save and load data from files (basic data persistence)
+- Best practices of programming (project planning, code setup)
+- Rule: 80% Coding & 20% reading  
+✅ **Exit:** Two projects - on GitHub 
 
 ---
 
-### **Section 2 – Data & Machine Learning Foundations**  
-- NumPy (arrays, broadcasting).  
-- Pandas (cleaning, transformations).  
-- Matplotlib & Seaborn (visualizations).  
-- Supervised learning (regression, classification).  
-- Unsupervised learning (clustering, PCA).  
-- scikit-learn (pipelines, metrics, model evaluation).  
-✅ **Exit:** 1–2 ML mini-projects (e.g., predictor/classifier).  
+### **Section 3: – Python - Other Important Skills**  
+- Developer tools: → Git + GitHub for version control; Debugging tools, PIP, requirements.txt, modules and more
+- Terminal: → Changing directories, printing out the working directory, modifying different files, deleting files and more
+- Pick a track & build real projects:(for example: Web development, Automation, APIs, AI/LLMs)
+- Rule: 80% Coding & 20% reading  
+✅ **Exit:** One real project - on GitHub 
 
 ---
 
-### **Section 3 – AI Apps & Deployment**  
-- FastAPI basics (endpoints, request/response).  
-- Flask (lightweight APIs).  
-- Docker for containerization.  
-- Cloud deployment (Hugging Face Spaces, Railway, Render, AWS/GCP).  
-- Build small AI-powered apps (chatbot, summarizer).  
-✅ **Exit:** 1 deployed AI app (with README + live demo link).  
+### **Section 4: – Python - Advance Skills**  
+- Learn Pythons unique features (eg: comprehensions, generator expression, decorators, args, kwargs, type hints ...)
+- Threading vs Multiprocessing
+- AsyncIO
+- GIL - Global Interpreter Lock
+- Python versions
+- Compliers: CPython vs PyPy vs MicroPython
+- Rule: 80% Coding & 20% reading  
+✅ **Exit:** One project. - on GitHub 
 
 ---
 
-### **Section 4 – Agents (Core Foundations + OpenAI Focus)**  
-- LangChain fundamentals: chains, memory, tools, agents.  
-- LlamaIndex basics: document loaders, indexing, queries.  
-- Simple RAG pipelines (retrieve → generate).  
-- OpenAI ecosystem (Assistants API, function calling, structured outputs).  
-- Connecting to APIs & tools (Google Search, Python functions).  
-- Single-agent apps (doc assistant, research bot).  
-✅ **Exit:** A working AI assistant that integrates OpenAI + LangChain/LlamaIndex.  
+### **Section 5: – 🤖 chatbot-learning**  
+- This section is dedicated to my **chatbot development journey**. I’m following the Udemy course *“Chatbot — The Development Guide 2025”* by Eric Roby, coding along step by step. For each tutorial project, I’ll also create a **spin-off version of my own**, applying the same skills in new contexts. This approach ensures I practice **80% coding / 20% reading** while building original chatbot apps for my portfolio and freelance opportunities.  
 
----
+🔗 Repo: [chatbot-learning](https://github.com/patckennedy/chatbot-learning)
 
-### **Section 5 – Agents (Advanced Orchestration)**  
-- Multi-agent systems (AutoGen, CrewAI, LangGraph).  
-- Advanced RAG with vector DBs (Pinecone, Weaviate, FAISS).  
-- Orchestration strategies (task delegation, error handling, human-in-the-loop).  
-- Building autonomous workflows.  
-✅ **Exit:** Multi-agent system project (e.g., research team simulation).  
+ ---
 
----
-
-### **Section 6 – Scaling AI Engineering**  
-- Experiment tracking (Weights & Biases, MLflow).  
-- Improving model performance (hyperparameter tuning, embeddings).  
-- Fine-tuning LLMs (LoRA, PEFT).  
-- MLOps basics: CI/CD pipelines for ML.  
-- Data pipelines (batch vs streaming).  
-✅ **Exit:** 1 production-style ML pipeline with tracking + docs.  
-
----
-
-### **Section 7 – Advanced Web + AI Integration**  
-*(Bridging my Web Dev background with AI Engineering)*  
-- React + AI (frontends consuming AI APIs).  
-- Building AI features into full-stack apps (chat widgets, recommenders).  
-- Secure API handling & rate limiting.  
-- Deploying AI-backed web apps (Heroku, Vercel, AWS).  
-✅ **Exit:** Full-stack PERN + AI project (portfolio-ready).  
-
----
-
-### **Section 8 – Portfolio Development**  
-- Select top 3–4 projects → polish & document.  
-- Write READMEs, blog posts, or short demo videos.  
-- Ensure repos are clean, commits consistent, code professional.  
-- Start capstone design.  
-✅ **Exit:** At least 2 polished projects recruiter-ready.  
-
----
-
-### **Section 9 – Capstone & Career Prep**  
-- Build final **capstone project** (end-to-end agentic AI system).  
-- Resume update: emphasize **dual career track** (Full-Stack + AI Engineering).  
-- GitHub cleanup (consistent style, README templates).  
-- Mock interview prep (tech + behavioral).  
-- Final portfolio showcase (LinkedIn, GitHub, portfolio site).  
-✅ **Exit:** 1 capstone + 3–4 polished projects → recruiter-ready.  
+### **UPCOMING SECTIONS** 
+- Section 6 – Data & Machine Learning Foundations
+- Section 7 – AI Apps & Deployment 
+- Section 8 – Agents (Core Foundations + OpenAI Focus)
+- Section 9 – Agents (Advanced Orchestration)
+- Section 10 – Scaling AI Engineering  
+- Section 11 – Advanced Web + AI Integration 
+- Section 12 – Portfolio Development  
+- Section 13 – Capstone & Career Prep 
 
 ---
 
 ## 📂 Mini-Projects by Month  
 
-- **[Month 1 – Python & LLM Basics](month-01_python-llm-basics/README.md)**  
-
+- **[Month 1 – Python Fundamentals](month-01_python/README.md)**  
+- **[Month 1 – Python Fundamentals](month-01_python-llm-basics/README.md)** 
 
 *(Each folder will contain mini-projects, notes, and a sub-README.)*  
 
@@ -134,10 +109,11 @@ My software engineering career continues — this roadmap expands my skills into
 - **Career Path Note**: Actively pursuing **Web Dev roles** while building AI Engineering skills in parallel.  
 
 📖 **Study Tracks**:  
-I am currently following two Udemy courses as part of my foundations:  
+I am currently following three Udemy courses as part of my foundations:  
 
-1. **Complete Python Bootcamp From Zero to Hero in Python** – strengthening my Python fundamentals with exercises and mini-projects.  
-2. **LLM Engineering: Master AI, Large Language Models & Agents** – learning practical LLM engineering concepts (transformers, context windows, APIs, agents).  
+1. **Complete Python Bootcamp From Zero to Hero in Python** – strengthening my Python fundamentals with exercises and mini-projects.
+2. **Chatbot — The Development Guide 2025** – learn Chatbots and build projects. 
+3. **LLM Engineering: Master AI, Large Language Models & Agents** – learning practical LLM engineering concepts (transformers, context windows, APIs, agents).  
 
 For both tracks, I:  
 - Take **my own notes and reflections** in the Weekly Logs.  
