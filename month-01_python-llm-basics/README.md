@@ -48,4 +48,15 @@ Both apps will be **pushed to GitHub** with a proper `README.md`.
   - [Weight Converter](week-03/mini-projects/weight-converter/README.md)  
 
 ---
+
+### Week 4 – Python General Review & Practice (Week 1- 4)  
+- 📝 [Notes](week-04/notes.md)  
+- 📂 Mini-Projects:  Coming Soon
+ 
+
+---
+
+
+
+
 ⭐ Each week builds on the previous one, starting small and growing toward end-to-end AI applications.
