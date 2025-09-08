@@ -5,8 +5,8 @@ Welcome to my **Learning Log**!
 This is a public record of my career enhancement journey learning Python & AI, where I document what I’m learning, practicing, and building along the way.  
 The goal is to show consistent progress, strengthen both my software engineering and AI engineering skills, and create a portfolio of projects and reflections.  
 
-⚡ **Career Note**: While I’m on this AI roadmap, I’m still actively pursuing Full-Stack / Web Developer roles (PERN stack).  
-My software engineering career continues — this roadmap expands my skills into AI to position me for hybrid AI + Web Dev opportunities.  
+⚡ **Career Note**: While I’m on this Python & AI roadmap, I’m still actively pursuing Full-Stack / Web Developer roles (PERN stack).  
+My software engineering career continues — this roadmap expands my skills into Python & AI to position me for hybrid Python + AI + Web Dev opportunities.  
 
 ---
 
@@ -27,69 +27,48 @@ My software engineering career continues — this roadmap expands my skills into
 
 ---
 
-## 📆 Journey Overview (12-Month Roadmap)  
+# 🐍 Python Learning Roadmap
 
-### **Section 1: – Core Python Fundamentals**  
-- Variables, data types, lists, dictionaries, tuples
-- Operators: conditional operators, arithmetic operators, type conversions
-- Conditional statements: if statements, elif statements, like statements
-- Loops: for loops, while loops
-- Advance features: Slices and exceptions
-- Mutability
-- Functions
-- Object-Oriented Programming (Classes, Objects, Methods)
-- File handling & simple CLI apps.  
-✅ **Exit:** One CLI app 
+This repo tracks my **12-month Python study plan**, with structured topics, real-world projects, and professional milestones.  
 
----
-### **Section 2: – Python - Small Projects + OOP in Practice**  
-- Learn how to split code into multiple files → Packages & Modules
-- Focus on writing resuable classes and functions
-- Learn how to handle errors with try/except and clauses
-- Learn how to save and load data from files (basic data persistence)
-- Best practices of programming (project planning, code setup)
-- Rule: 80% Coding & 20% reading  
-✅ **Exit:** Two projects - on GitHub 
+## 📅 Roadmap Overview
+- **Month 1 – Basics & Data Types** → Variables, data structures, conditionals.  
+- **Month 2 – Loops & Functions** → Loops, functions, comprehensions.  
+- **Month 3 – OOP & Decorators** → Generators, decorators, OOP.  
+- **Month 4 – Error Handling** → File handling, exceptions, .env.  
+- **Month 5 – Utility Apps** → CLI and daily-use tools.  
+- **Month 6 – Data Handling** → CSV, JSON, encryption.  
+- **Month 7 – Web Scraping & Automation** → Scraping, SQLite, automation.  
+- **Month 8 – Data Science Foundations** → NumPy, Pandas, regression, NLP.  
+- **Month 9 – Full-Stack Project** → Flask URL shortener.  
+- **Month 10 – Concurrency** → Threads, multiprocessing, asyncio.  
+- **Month 11 – Pydantic** → Data validation and modeling.  
+- **Month 12 – Professional Practices** → GitHub workflow, testing, deployment.  
+
+➡️ See the full detailed roadmap here: [python-roadmap.md](python-roadmap.md)
 
 ---
 
-### **Section 3: – Python - Other Important Skills**  
-- Developer tools: → Git + GitHub for version control; Debugging tools, PIP, requirements.txt, modules and more
-- Terminal: → Changing directories, printing out the working directory, modifying different files, deleting files and more
-- Pick a track & build real projects:(for example: Web development, Automation, APIs, AI/LLMs)
-- Rule: 80% Coding & 20% reading  
-✅ **Exit:** One real project - on GitHub 
 
----
 
-### **Section 4: – Python - Advance Skills**  
-- Learn Pythons unique features (eg: comprehensions, generator expression, decorators, args, kwargs, type hints ...)
-- Threading vs Multiprocessing
-- AsyncIO
-- GIL - Global Interpreter Lock
-- Python versions
-- Compliers: CPython vs PyPy vs MicroPython
-- Rule: 80% Coding & 20% reading  
-✅ **Exit:** One project. - on GitHub 
 
----
+## 📆 AI Learning Roadmap 
 
-### **Section 5: – 🤖 chatbot-learning**  
+### **Section 1: – 🤖 chatbot-learning**  
 - This section is dedicated to my **chatbot development journey**. I’m following the Udemy course *“Chatbot — The Development Guide 2025”* by Eric Roby, coding along step by step. For each tutorial project, I’ll also create a **spin-off version of my own**, applying the same skills in new contexts. This approach ensures I practice **80% coding / 20% reading** while building original chatbot apps for my portfolio and freelance opportunities.  
 
 🔗 Repo: [chatbot-learning](https://github.com/patckennedy/chatbot-learning)
 
  ---
-
 ### **UPCOMING SECTIONS** 
-- Section 6 – Data & Machine Learning Foundations
-- Section 7 – AI Apps & Deployment 
-- Section 8 – Agents (Core Foundations + OpenAI Focus)
-- Section 9 – Agents (Advanced Orchestration)
-- Section 10 – Scaling AI Engineering  
-- Section 11 – Advanced Web + AI Integration 
-- Section 12 – Portfolio Development  
-- Section 13 – Capstone & Career Prep 
+- Section 2 – Data & Machine Learning Foundations
+- Section 3 – AI Apps & Deployment 
+- Section 4 – Agents (Core Foundations + OpenAI Focus)
+- Section 5 – Agents (Advanced Orchestration)
+- Section 6 – Scaling AI Engineering  
+- Section 7 – Advanced Web + AI Integration 
+- Section 8 – Portfolio Development  
+- Section 9 – Capstone & Career Prep 
 
 ---
 
