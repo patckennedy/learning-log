@@ -41,5 +41,11 @@ Both apps will be **pushed to GitHub** with a proper `README.md`.
 
 ---
 
+### Week 3 – Review & Practice  
+- 📝 [Notes](week-03/notes.md)  
+- 📂 Mini-Projects:  
+  - [Calculator](week-03/mini-projects/calculator/README.md)  
+  - [Weight Converter](week-03/mini-projects/weight-converter/README.md)  
 
+---
 ⭐ Each week builds on the previous one, starting small and growing toward end-to-end AI applications.
