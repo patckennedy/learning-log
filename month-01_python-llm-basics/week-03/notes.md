@@ -32,8 +32,8 @@ This week focuses on reinforcing Python fundamentals with mini-projects **and** 
 ---
 
 ## 🖥️ Ollama Setup
-- **Commands Used:**  
-  *(to be filled as you complete setup)*  
+- Installed Ollama successfully (basic installation complete)  
+- No custom commands run yet — deeper testing to follow later 
 
 ---
 
