@@ -4,7 +4,7 @@ This month focuses on **Python fundamentals**, building confidence with small ap
 
 ---
 
-## 📅 Roadmap (Month 1 – Python & LLM Basics Only)  
+## 📅 Roadmap
 
 ### 🎯 Focus
 - Build solid Python foundations  
@@ -41,7 +41,7 @@ Both apps will be **pushed to GitHub** with a proper `README.md`.
 
 ---
 
-### Week 3 – Review & Practice  
+### Week 3 – Python Review & Practice  
 - 📝 [Notes](week-03/notes.md)  
 - 📂 Mini-Projects:  
   - [Calculator](week-03/mini-projects/calculator/README.md)  
