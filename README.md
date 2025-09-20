@@ -22,7 +22,6 @@ My software engineering career continues — this roadmap expands my skills into
 ## 🔎 Why This Repo?  
 
 - Keeps me accountable and consistent.  
-- Shows recruiters and collaborators my **dedication to continuous learning**.  
 - Acts as a **knowledge base** I can revisit anytime.  
 
 ---
