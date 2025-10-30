@@ -1,87 +1,45 @@
 # 📚 Learning Log
 
-Public record of my Python & AI journey — what I’m learning, practicing, and building.  
-I’m strengthening core **software engineering** skills while expanding into **Python + AI** for hybrid roles.
+> A living record of my **developer learning journey** — documenting what I’m learning, practicing, and building across Python, AI, and Full-Stack development.
 
-> ⚡ Career Note: I’m actively pursuing **Full-Stack/Web Dev (PERN)** roles while building Python & AI competency in parallel.
+This space strengthens my core **software engineering** foundations while expanding into **Python and AI**, preparing me for hybrid roles that merge automation, intelligent systems, and modern web development.
+
+> ⚡ **Career Note:** Actively pursuing **Full-Stack / Web Dev (PERN)** roles while building strong Python and AI capabilities in parallel.
 
 ---
 
 ## 🚀 What’s Inside
-- 📝 **Weekly Logs** – short notes + reflections
-- 💡 **Mini-Projects** – Python, ML, LLMs, agents
-- 📖 **Resources** – courses, articles, references
-- 🎯 **Milestones** – checkpoints and outcomes
+- 📝 **Weekly Logs** – notes and reflections on progress  
+- 💡 **Mini-Projects** – Python, ML, and automation tools  
+- 📖 **Resources** – curated courses, articles, and references  
+- 🎯 **Milestones** – checkpoints, outcomes, and skill validations  
 
 ---
 
-## 🔎 Why This Repo?
-- Keeps me **accountable and consistent**
-- Acts as a searchable **knowledge base**
+## 🔎 Purpose
+
+This repo keeps my learning **accountable, searchable, and incremental**.  
+It serves as a **developer’s digital journal**, capturing progress from foundational topics to advanced AI workflows.  
+
+> 🧠 For brand-applied AI and automation projects, visit  
+> 👉 [**BigTechGirls Learning Log**](https://github.com/patckennedy/bigtechgirls-learning-log)
 
 ---
 
-## 🐍 Python Learning Roadmap
-- **M1 – Basics & Data Types**: variables, data structures, conditionals  
-- **M2 – Loops & Functions**: loops, functions, comprehensions  
-- **M3 – OOP & Decorators**: classes, generators, decorators  
-- **M4 – Error & Files**: exceptions, file I/O, `.env`  
-- **M5 – Utility Apps**: CLI & daily-use tools  
-- **M6 – Data Handling**: CSV/JSON, simple encryption  
-- **M7 – Automation**: web scraping, SQLite, scripting  
-- **M8 – DS Foundations**: NumPy, Pandas, regression, basic NLP  
-- **M9 – Full-Stack**: Flask URL shortener  
-- **M10 – Concurrency**: threads, multiprocessing, asyncio  
-- **M11 – Pydantic**: validation & data models  
-- **M12 – Practices**: tests, CI, deploy
+## 🐍 Python for AI & Automation
 
-👉 Full plan: [`python-roadmap.md`](python-roadmap.md)
+My focused Python learning journey — covering automation scripts, LLM foundations, and AI mini-projects — is documented in the  
+➡️ [**BigTechGirls Learning Log**](https://github.com/patckennedy/bigtechgirls-learning-log)
 
----
-
-## 🤖 AI Learning Roadmap
-**Section 1 – Chatbot Learning**  
-Following *“Chatbot — The Development Guide 2025”* (Eric Roby). For each tutorial, I ship a **spin-off** version to apply concepts (target: **80% coding / 20% reading**).  
-Repo: [`chatbot-learning`](https://github.com/patckennedy/chatbot-learning)
-
-**Upcoming Sections**
-- Data & ML Foundations
-- AI Apps & Deployment
-- Agents (Core + OpenAI Focus)
-- Agents (Advanced Orchestration)
-- Scaling AI Engineering
-- Advanced Web + AI Integration
-- Portfolio Development
-- Capstone & Career Prep
-
----
-
-## 📂 Mini-Projects by Month
-- **[Month 1 – Python Fundamentals](month-01_python-llm-basics/README.md)**  
-*(Each month folder includes mini-projects, notes, and a sub-README.)*
+That repository tracks my structured roadmap through Python fundamentals, automation, and applied AI — all aligned with real-world problem-solving and brand development.
 
 ---
 
 ## ✅ Current Status
-- **Path**: IT Support → Full-Stack (PERN) → AI Engineer in Training  
-- **Now Learning**: M1 – Python Foundations & Intro to LLMs  
-- **Job Focus**: Applying for **Web Dev roles** while building AI skills
-
-**Study Tracks**
-1) *Complete Python Bootcamp From Zero to Hero in Python* – fundamentals + exercises  
-2) *Chatbot — The Development Guide 2025* – hands-on chatbot builds  
-3) *LLM Engineering: Master AI, Large Language Models & Agents* – transformers, APIs, agents
-
-Practice loop:
-- Take short notes in Weekly Logs
-- Rebuild/extend projects in a fresh environment
-- Create extra mini-projects from each lesson
+- **Path:** IT Support → Full-Stack (PERN) → AI Engineer in Training  
+- **Now Learning:** Python Foundations & Intro to AI Automation  
+- **Job Focus:** Applying for **Web Developer roles** while building AI skills  
 
 ---
 
-## 🗒️ Notes Hub
-- [`notes/python/python-notes.md`](./notes/python/python-notes.md)
-
----
-
-⭐ This repo grows weekly with logs, notes, and shipped mini-projects.
+⭐ This repo continues to grow weekly with new logs, reflections, and shipped mini-projects.
